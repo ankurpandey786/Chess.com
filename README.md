@@ -11,6 +11,6 @@ Real time connection with your friend:-
 
 
 
-
+You can also spectate other players game until you are finding your match.
 
 Still a lot of work is need to be done 🙂
